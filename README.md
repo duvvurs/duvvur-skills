@@ -167,4 +167,4 @@ MIT — Use these patterns freely. Attribution appreciated but not required.
 
 ---
 
-> **Duvvur Sai Krishna** · [Resume](https://duvvurs.github.io) · [GitHub](https://github.com/duvvurs) · [LinkedIn](https://linkedin.com/in/)
+> **Duvvur Sai Krishna** · [Resume](https://duvvurs.github.io) · [GitHub](https://github.com/duvvurs) · [LinkedIn](https://www.linkedin.com/in/duvvur-sai-krishna-reddy-7a593663)
